@@ -1,0 +1,22 @@
+{
+  "name": "firsttest",
+  "version": "1.0.0",
+  "description": "first time using npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaber79/week1day5.git"
+  },
+  "author": "Gabe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaber79/week1day5/issues"
+  },
+  "homepage": "https://github.com/gaber79/week1day5#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
